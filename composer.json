@@ -1,0 +1,16 @@
+{
+    "name": "icecream/router",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kostylev Artem",
+            "email": "icecream@jokyprod.com"
+        }
+    ],
+    "require": {}
+}
